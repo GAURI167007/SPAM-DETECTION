@@ -27,9 +27,9 @@
   ### 4. MENU DRIVEN CLI INTERFACE
 
   ## STRUCTURE
- PROJECT/
- |_main.py
- |_spam.csv
+### PROJECT/
+### |_main.py
+### |_spam.csv
 
  ## FUTURE ENHANCEMENTS
  ### 1. ACCURACY IMPROVEMENTS
